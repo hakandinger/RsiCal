@@ -11,4 +11,4 @@ A simple **Relative Strength Index (RSI)** calculator for Binance Klines in C#.
 ## Installation ⚙️
 1. Clone the repository:
    ```sh
-   git clone https://github.com/hakandinger/RSICalculator.git
+   git clone https://github.com/hakandinger/RsiCal.git
